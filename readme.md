@@ -9,6 +9,6 @@ The gross rent increased duing 2011
 For the Anza Vista neighborhood, is the average sale price per square foot for 2016 more or less than the price that’s listed for 2012?
 Westwood Park has the highest gross rent and he has the highest sale price per square foot
 
-# Compose
+#Compose
 
 The trend in sales prices significantly increased while the trend in rental income slightly increased
